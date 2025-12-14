@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "Z･刻をこえて",
+  "base_artist": "鮎川麻弥",
+  "createdAt": "2025-12-14T09:39:48.455463Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Z・刻をこえて",
+      "artist": "鮎川麻弥",
+      "has_synced": true,
+      "path": "select/01_Z・刻をこえて_鮎川麻弥.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Z・刻をこえて",
+      "artist": "Mami Ayukawa",
+      "has_synced": true,
+      "path": "select/02_Z・刻をこえて_Mami_Ayukawa.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Z・刻をこえて",
+      "artist": "Moriguchi, Hiroko",
+      "has_synced": false,
+      "path": "select/03_Z・刻をこえて_Moriguchi,_Hiroko.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Z・刻をこえて（機動戦士Zガンダム）",
+      "artist": "Nami Tamaki",
+      "has_synced": true,
+      "path": "select/04_Z・刻をこえて(機動戦士Zガンダム)_Nami_Tamaki.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Z・刻をこえて",
+      "artist": "GUNDAM",
+      "has_synced": true,
+      "path": "select/05_Z・刻をこえて_GUNDAM.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Z・刻をこえて（ロング・ヴァージョン）",
+      "artist": "鮎川麻弥",
+      "has_synced": true,
+      "path": "select/06_Z・刻をこえて(ロング・ヴァージョン)_鮎川麻弥.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Z・刻をこえて (機動戦士Zガンダム)",
+      "artist": "玉置成実",
+      "has_synced": true,
+      "path": "select/07_Z・刻をこえて_(機動戦士Zガンダム)_玉置成実.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Z・刻をこえて",
+      "artist": "鮎川 麻弥",
+      "has_synced": false,
+      "path": "select/pl_01_Z・刻をこえて_鮎川_麻弥.txt"
+    }
+  ]
+}
